@@ -1,1 +1,1 @@
-# DataScienceEpam
+# Data Science Course HWs
